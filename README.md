@@ -1,12 +1,12 @@
 # Start
 
-## requirements
+## Requirements
 
 * `npm install discord.js`
 * `npm install ms`
 * `npm install fs`
 
-## info
+## Info
 
 * The bot doesn't need node.js v16 it can use v12.
 * The bot complies with a simple level system for your server
