@@ -1,0 +1,34 @@
+{
+  "name": "System-level",
+  "version": "1.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "leaderboards",
+    "chat",
+    "commands",
+    "discord",
+    "discordjs"
+  ],
+  "author": "GproGamer12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://discord.gg/en7hjzSfXX"
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "jsesc": "^2.5.1",
+    "moment": "^2.18.1",
+    "moment-duration-format": "^1.3.0",
+    "snekfetch": "^3.2.9",
+    "sqlite": "^2.8.0"
+  }
+}
